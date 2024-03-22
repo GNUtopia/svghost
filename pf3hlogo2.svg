@@ -1,7 +1,7 @@
-<svg width="1080" height="1080" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
- <!-- Created with SVG-edit - https://github.com/SVG-Edit/svgedit-->
- <g class="layer">
-  <title>Layer 1</title>
-  <path d="m540,1070.81l-167.63,-83.81l447,-223.5l0,-279.38l-558.75,279.38l0,167.63l-167.63,-83.81l0,-614.63l447,-223.5l167.63,83.81l-447,223.5l0,279.38l558.75,-279.38l0,-167.63l167.63,83.81l0,614.63c-37.25,18.62 -409.75,204.88 -447,223.5z" fill="#000000" id="svg_4" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="round" stroke-opacity="null"/>
- </g>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 1080 1080" xmlns="http://www.w3.org/2000/svg">
+<g class="layer">
+<title>Layer 1</title>
+<path d="m540 1070.8-167.63-83.81 447-223.5v-279.38l-558.75 279.38v167.63l-167.63-83.81v-614.63l447-223.5 167.63 83.81-447 223.5v279.38l558.75-279.38v-167.63l167.63 83.81v614.63c-37.25 18.62-409.75 204.88-447 223.5z" stroke="#000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="round" stroke-opacity="null"/>
+</g>
 </svg>

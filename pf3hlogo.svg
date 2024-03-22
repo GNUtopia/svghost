@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<svg width="250" height="300" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <title>pf3hlogo</title>
+ <g class="layer">
+  <title>Layer 1</title>
+  <g id="svg_7">
+   <rect height="140" id="svg_1" rx="2" ry="2" stroke="rgb(0, 0, 0)" transform="matrix(0.859627, 0.510921, 0, 1.1633, -82.4883, -87.7699)" width="60" x="-2016497.56" y="217032.55"/>
+   <rect fill="#000000" height="102.92" id="svg_5" rx="2" ry="2" stroke="rgb(0, 0, 0)" transform="matrix(-0.911375, -0.531505, 1.13193, -0.545226, 11.1832, 219.625)" width="55.04" x="-1662062.28" y="193367.67"/>
+  </g>
+  <g id="svg_8" transform="matrix(-1, -1.22465e-16, 1.22465e-16, -1, 141.828, 439.636)">
+   <rect height="140" id="svg_9" rx="2" ry="2" stroke="rgb(0, 0, 0)" transform="matrix(0.859627, 0.510921, 0, 1.1633, -82.4883, -87.7699)" width="60" x="-24.07" y="257.19"/>
+   <rect fill="#000000" height="102.92" id="svg_10" rx="2" ry="2" stroke="rgb(0, 0, 0)" transform="matrix(-0.911375, -0.531505, 1.13193, -0.545226, 11.1832, 219.625)" width="55.04" x="21.84" y="-39.14"/>
+  </g>
+  <rect fill="null" fill-opacity="null" height="206.81" id="svg_12" stroke="rgb(0, 0, 0)" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-opacity="null" transform="matrix(0.433038, 0.901376, -0.901376, 0.433038, 190.525, -20.4755)" width="48.23" x="102.81" y="26.08"/>
+  <g id="svg_16" transform="matrix(1, 2.4493e-16, -2.4493e-16, 1, -30.828, -189.636)">
+   <rect height="140" id="svg_17" rx="2" ry="2" stroke="rgb(0, 0, 0)" transform="matrix(0.859627, 0.510921, 0, 1.1633, -82.4883, -87.7699)" width="60" x="137.63" y="229.16"/>
+   <rect fill="#000000" height="102.92" id="svg_18" rx="2" ry="2" stroke="rgb(0, 0, 0)" transform="matrix(-0.911375, -0.531505, 1.13193, -0.545226, 11.1832, 219.625)" width="55.04" x="-98.67" y="-13.37"/>
+  </g>
+ </g>
+
+</svg>

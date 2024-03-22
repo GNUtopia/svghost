@@ -1,20 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg viewBox="0 0 250 300" xmlns="http://www.w3.org/2000/svg">
-<title>pf3hlogo</title>
-<g class="layer">
-<title>Layer 1</title>
-<g stroke="#000">
-<rect transform="matrix(.85963 .51092 0 1.1633 -82.488 -87.77)" x="-2016498" y="217033" width="60" height="140" rx="2" ry="2"/>
-<rect transform="matrix(-.91138 -.5315 1.1319 -.54523 11.183 219.62)" x="-1662062" y="193368" width="55.04" height="102.92" rx="2" ry="2"/>
-</g>
-<g transform="matrix(-1 -1.2246e-16 1.2246e-16 -1 141.83 439.64)" stroke="#000">
-<rect transform="matrix(.85963 .51092 0 1.1633 -82.488 -87.77)" x="-24.07" y="257.19" width="60" height="140" rx="2" ry="2"/>
-<rect transform="matrix(-.91138 -.5315 1.1319 -.54523 11.183 219.62)" x="21.84" y="-39.14" width="55.04" height="102.92" rx="2" ry="2"/>
-</g>
-<rect transform="matrix(.43304 .90138 -.90138 .43304 190.52 -20.476)" x="102.81" y="26.08" width="48.23" height="206.81" fill="null" fill-opacity="null" stroke="#000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-opacity="null"/>
-<g transform="matrix(1 2.4493e-16 -2.4493e-16 1 -30.828 -189.64)" stroke="#000">
-<rect transform="matrix(.85963 .51092 0 1.1633 -82.488 -87.77)" x="137.63" y="229.16" width="60" height="140" rx="2" ry="2"/>
-<rect transform="matrix(-.91138 -.5315 1.1319 -.54523 11.183 219.62)" x="-98.67" y="-13.37" width="55.04" height="102.92" rx="2" ry="2"/>
-</g>
-</g>
+<svg width="1080" height="1080" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - https://github.com/SVG-Edit/svgedit-->
+ <g class="layer">
+  <title>Layer 1</title>
+  <path d="m540,1070.81l-167.63,-83.81l447,-223.5l0,-279.38l-558.75,279.38l0,167.63l-167.63,-83.81l0,-614.63l447,-223.5l167.63,83.81l-447,223.5l0,279.38l558.75,-279.38l0,-167.63l167.63,83.81l0,614.63c-37.25,18.62 -409.75,204.88 -447,223.5z" fill="#000000" id="svg_4" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="round" stroke-opacity="null"/>
+ </g>
 </svg>

@@ -3,7 +3,7 @@
 <title>kpsd</title>
 <g class="layer">
 <title>Layer 1</title>
-<g stroke="#fff" stroke-linejoin="round">
+<g stroke-linejoin="round">
 <rect class="cls-1" x="581.73" y="688.4" width="167.59" height="54.72"/>
 <path class="cls-1" d="m656.97 175.41-13.69 37.61h229.43a178.76 178.76 0 0 0-129.64-55.4h-70.51q6.43 6.76-15.59 17.79h0.01z"/>
 <rect class="cls-1" x="581.73" y="575.54" width="167.59" height="58.14"/>
